@@ -5,7 +5,7 @@
 #### Q1. What type of light never casts a shadow in a 3D scene?
 
 - [ ] Parallel
-- [ ] Ambient
+- [⨉] Ambient
 - [ ] Point
 - [ ] Spot
 
